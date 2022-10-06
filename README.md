@@ -1,7 +1,7 @@
 # BIGDATA_D3_JAVASCRIPT_LAB
 ☕📖📚📘 LABORATORIO DE GRAFICAS BIG DATA CON D3 JAVASCRIPT 📘📚📖☕
 
-![alt text](https://www.devmafia.org/github_images_graphixx/screenshot_2021_08_09_at_00_23_01.png)
+![alt text](http://postimg.cc/tYrWLVwR)
 
 PDF [GUIA DE APRENDIZAJE]:
 https://graphixxroninnovation.gitbook.io/devmafia/laboratorio-de-graficas-big-data-con-d3-javascript
