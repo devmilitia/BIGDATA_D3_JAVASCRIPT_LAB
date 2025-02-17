@@ -9,4 +9,4 @@ https://graphixxroninnovation.gitbook.io/devmafia/laboratorio-de-graficas-big-da
 Binarios / SOURCE CODE :
 https://www.mediafire.com/file/8kppan9w2mw22ko/BIGDATA_D3_JAVASCRIPT_LAB.zip/file
 
-Developed By | Programado por: Carlos Mario Ospina | www.ventasON.com
+Developed By | Programado por: Carlos Mario Ospina
